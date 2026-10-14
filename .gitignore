@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+models/bert-base-uncased/
+*.faiss
+*.index
+gitfiles.txt
